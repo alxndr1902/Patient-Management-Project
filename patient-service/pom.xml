@@ -103,13 +103,6 @@
             <version>4.29.1</version>
         </dependency>
 
-        <!-- kafka -->
-        <dependency>
-            <groupId>org.springframework.kafka</groupId>
-            <artifactId>spring-kafka</artifactId>
-            <version>3.3.11</version>
-        </dependency>
-
     </dependencies>
 
     <build>
